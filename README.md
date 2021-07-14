@@ -1,5 +1,5 @@
 # Housing-Data-Automation
-Data Entry Job Automation
+Data Entry Job Automation.
 Create a Google spreadsheet with housing prices/addresses/links using Google forms and webscraping on Zillow.
 
 
